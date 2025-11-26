@@ -1,12 +1,12 @@
-#Projeto Estudando para prova
+# Projeto Estudando para prova
 
 este projeto tem como função aprender sobre o git github
 
-##Intalação
-- Download git [git]https://www.google.com
+## Intalação
+- Download git __[git]https://www.google.com
 ---
-##Como usar
+## Como usar
 ---
-##Funcionalidades
+## Funcionalidades
 ---
-##Estrutura do Projeto
+## Estrutura do Projeto
